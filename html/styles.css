@@ -20,22 +20,22 @@
 
 #money {
   text-align: right;
-  color: #28a745;
+  color: #e100ff;
 }
 
 #money-minus {
   text-align: right;
-  color: red;
+  color: rgb(255, 0, 191);
 }
 
 #cash,
 #bank,
 #plus {
-  color: #ededed;
+  color: #ff00ff;
 }
 
 #minus {
-  color: red;
+  color: rgb(204, 0, 255);
 }
 
 /* Player HUD */
@@ -88,7 +88,7 @@
   text-transform: uppercase;
   bottom: 0vh;
   left: 16.5vw;
-  color: #ededed;
+  color: #fa00b3;
 }
 
 /* Animation */
