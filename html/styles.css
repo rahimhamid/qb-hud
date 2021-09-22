@@ -60,11 +60,11 @@
 
 .ui-car-speed {
   bottom: 5vh;
-  left: 51vw;
+  left: 50.1vw;
 }
 
 .ui-car-fuel {
-  left: 49.5vw;
+  left: 48.5vw;
   bottom: 2.5vw;
 }
 
@@ -75,20 +75,20 @@
 
 .ui-car-seatbelt {
   right: 44.5vw;
-  bottom: 2.5vw;
+  bottom: 2.7vw;
 }
 
 .ui-car-cruise {
-  right: 44vw;
-  bottom: 7.5vh;
+  right: 44.8vw;
+  bottom: 8.0vh;
 }
 
 .ui-car-street {
   font-size: 20px;
-  text-transform: uppercase;
+  text-transform: Impact;
   bottom: 0vh;
   left: 47.10vw;
-  color: #fa00b3;
+  color: #f22dba;
 }
 
 /* Animation */
