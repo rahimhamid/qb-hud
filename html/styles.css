@@ -43,8 +43,8 @@
 #playerhud {
   display: flex;
   position: absolute;
-  bottom: 0vw;
-  left: 1.5vh;
+  bottom: 01vw;
+  left: 9.9vh;
 }
 
 /* Vehicle HUD */
@@ -64,7 +64,7 @@
 }
 
 .ui-car-fuel {
-  left: 48.5vw;
+  left: 48.3vw;
   bottom: 2.5vw;
 }
 
@@ -75,12 +75,12 @@
 
 .ui-car-seatbelt {
   right: 44.5vw;
-  bottom: 2.7vw;
+  bottom: 2.9vw;
 }
 
 .ui-car-cruise {
   right: 44.8vw;
-  bottom: 8.0vh;
+  bottom: 9.0vh;
 }
 
 .ui-car-street {
